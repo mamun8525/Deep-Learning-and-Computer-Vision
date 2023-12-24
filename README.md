@@ -1,1 +1,1 @@
-It includes complete complete program of some deep learning , computer vision application
+It includes complete program of some deep learning , computer vision application
